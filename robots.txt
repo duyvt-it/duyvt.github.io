@@ -1,5 +1,4 @@
 User-agent: Googlebot
-Allow: *
 Disallow: 
 
-Sitemap: http://duyvt.ga/sitemap.xml
+Sitemap: https://duyvt.ga/sitemap.xml
