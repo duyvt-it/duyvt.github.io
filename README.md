@@ -1,7 +1,7 @@
 <h1>
     <font color="#00A0C0">WEBSITE ĐƯỢC TẠO CHỈ VỚI MỤC ĐÍCH HỌC TẬP</font>
 </h1>
-<hr>
+
 <h3>
     <blockquote>
         <font color="#6C6C6C">
@@ -34,16 +34,16 @@
             href="https://youtu.be/GtPwF377tYs">ToiDiCodeDao</a></font>
 </h4>
 <h4>
-    <font color="#6C6C6C">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tên miền được cung cấp bởi: <a
-            href="https://freenom.com">Freenom</a></font>
+    <font color="#6C6C6C">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Template website: <a
+            href="https://bootstrapmade.com/">Bootstrapmade</a></font>
 </h4>
 <h4>
     <font color="#6C6C6C">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Máy chủ DNS trung gian: <a
             href="https://cloudflare.com">Cloudflare</a></font>
 </h4>
 <h4>
-    <font color="#6C6C6C">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Template website: <a
-            href="https://bootstrapmade.com/">Bootstrapmade</a></font>
+    <font color="#6C6C6C">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tên miền được cung cấp bởi: <a
+            href="https://freenom.com">Freenom</a></font>
 </h4>
 <h4>
     <font color="#6C6C6C">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Template sitemap: <a
