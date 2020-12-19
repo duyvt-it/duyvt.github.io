@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://duyvt.ga/sitemap.xml?v=1
